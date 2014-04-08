@@ -97,8 +97,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header {
+    background: #003DF5;
+    
+}
 
-
+header.title-header {
+    color: #dfdfdf;
+    font-size: 28px;
+}
 
 
 
