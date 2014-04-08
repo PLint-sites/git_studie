@@ -99,7 +99,8 @@ textarea {
 
 header {
     background: #003DF5;
-    margin: 60px auto 40px;
+    margin: 0 auto;
+    padding: 40px;
 }
 
 header.title-header {
