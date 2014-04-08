@@ -99,12 +99,16 @@ textarea {
 
 header {
     background: #003DF5;
-    
+    margin: 60px auto 40px;
 }
 
 header.title-header {
     color: #dfdfdf;
     font-size: 28px;
+}
+
+header h1 {
+    margin-top: 0;
 }
 
 
